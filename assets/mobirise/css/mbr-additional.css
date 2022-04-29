@@ -949,6 +949,56 @@ section.lazy-placeholder:after {
 .cid-rTQjhlhfGP H4 {
   text-align: center;
 }
+.cid-t4mHQgv0QY {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-t4mHQgv0QY p {
+  margin-bottom: 0;
+}
+.cid-t4mHQgv0QY .card-box {
+  z-index: 1;
+  position: relative;
+  background-color: rgba(15, 118, 153, 0.6);
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-t4mHQgv0QY .card-box .card-title {
+  pointer-events: all;
+}
+.cid-t4mHQgv0QY .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.cid-t4mHQgv0QY .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-t4mHQgv0QY .card-img img {
+  z-index: -1;
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-t4mHQgv0QY .card-wrap {
+  position: relative;
+}
+.cid-t4mHQgv0QY .card {
+  padding-bottom: 2rem;
+}
+.cid-t4mHQgv0QY H4 {
+  text-align: center;
+}
 .cid-rU6Kc1HlmQ {
   padding-top: 60px;
   padding-bottom: 0px;
